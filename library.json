@@ -11,14 +11,14 @@
     "authors":
     [
       {
-        "name": "faizannazir289@gmail.com",
-        "email": "faizannazir289@gmail.com",
-        "url": "https://github.com/faizannazir",
+        "name": "Embeddronics",
+        "email": "info@embeddronics.com",
+        "url": "https://github.com/Embeddronics-ltd/BLEOTALIBRARY",
         "maintainer": true
       }
     ],
     "license": "MIT",
-    "homepage": "https://github.com/faizannazir/ArduinoIDEBle-OTA/",
+    "homepage": "https://github.com/Embeddronics-ltd/BLEOTALIBRARY",
     "dependencies":
     {
       "jandrassy/ArduinoOTA":"^1.0.10",
